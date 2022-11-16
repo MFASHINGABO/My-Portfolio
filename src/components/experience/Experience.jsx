@@ -29,12 +29,17 @@ const Experience =() => {
     </article>
      <article className='experience_details'>
     <BsFillPatchCheckFill/>
-    <h4>HTML</h4>
+    <h4>Bootstrap</h4>
     <small className='text-light'>Experienced</small>
     </article>
      <article className='experience_details'>
     <BsFillPatchCheckFill/>
-    <h4>HTML</h4>
+    <h4>Tailwind</h4>
+    <small className='text-light'>Experienced</small>
+    </article>
+     <article className='experience_details'>
+    <BsFillPatchCheckFill/>
+    <h4>React</h4>
     <small className='text-light'>Experienced</small>
     </article>
     </div>
